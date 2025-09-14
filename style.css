@@ -191,16 +191,13 @@ body {
 
 @media (max-width: 440px){
     .product .img img {
-        height: 150px;
-    }
-    .product{
-      margin: 0;
+        height: 160px;
     }
 }
 
 @media (max-width: 370px){
     .product .img img {
-        height: 130px;
+        height: 150px;
     }
     .product{
       margin: 0;
