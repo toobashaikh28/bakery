@@ -187,16 +187,26 @@ body {
   .product .img img {
    max-width: 40%;
   }
+
+  .product{
+      margin: 0;
+  }
 }
 
 @media (max-width: 440px){
     .product .img img {
         height: 150px;
     }
+    .product{
+      margin: 0;
+    }
 }
 
 @media (max-width: 370px){
     .product .img img {
         height: 130px;
+    }
+    .product{
+      margin: 0;
     }
 }
