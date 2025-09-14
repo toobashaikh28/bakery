@@ -187,10 +187,6 @@ body {
   .product .img img {
    max-width: 40%;
   }
-
-  .product{
-      margin: 0;
-  }
 }
 
 @media (max-width: 440px){
